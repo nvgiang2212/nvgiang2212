@@ -1,9 +1,11 @@
-## Hi there 👋
+# 🌌 Welcome to My GitHub Universe! 🌌
+
+![Astronaut](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
 # 💫 About Me:
-👋 Hi, I'm Giang however you can call me Gary <br>
+👋 Hi, I'm Gary Nguyen <br>
 💼 I'm working as Software Developer <br>
-🌱 Currently I'm learning Reactjs, Angular, and Vuejs<br>
+🌱 Currently I'm learning Reactjs, Angular, and Vuejs <br>
 💬 Ask me about everything if you want<br>
 
 ## 🌐 Socials
@@ -16,3 +18,14 @@
 ## 📫 Contact Me
 - Email: [giangnguyen221295@gmail.com](mailto:giangnguyen221295@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/nguyen-van-giang](https://www.linkedin.com/in/nguyen-van-giang/)
+
+## 🌟 Featured Projects
+
+### 🚀 [Mission Control Dashboard](https://github.com/yourusername/mission-control)
+A real-time dashboard for monitoring spacecraft telemetry, built with Angular and Node.js.
+
+### 🌠 [Stellar Portfolio](https://github.com/yourusername/stellar-portfolio)
+My personal portfolio website showcasing my projects and experience, crafted with Vue.js and TypeScript.
+
+### 🛰️ [Orbital Tracker](https://github.com/yourusername/orbital-tracker)
+A tool to track satellites in orbit, utilizing Python and various space APIs.
