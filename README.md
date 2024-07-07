@@ -1,6 +1,6 @@
 # 🌌 Welcome to My GitHub Universe! 🌌
 
-![Milky Way Galaxy]([https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpqOTh2eW53cHNvcDJ1M2lmaGIxdm9tcmtpeGt4OWl3dGFiNnR0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif))
+![Universe]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpqOTh2eW53cHNvcDJ1M2lmaGIxdm9tcmtpeGt4OWl3dGFiNnR0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif])
 
 # 💫 About Me:
 👋 Hi, I'm Gary Nguyen <br>
