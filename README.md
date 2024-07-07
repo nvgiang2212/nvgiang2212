@@ -1,6 +1,6 @@
 # 🌌 Welcome to My GitHub Universe! 🌌
 
-![Astronaut](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+![Milky Way Galaxy](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 # 💫 About Me:
 👋 Hi, I'm Gary Nguyen <br>
@@ -18,14 +18,3 @@
 ## 📫 Contact Me
 - Email: [giangnguyen221295@gmail.com](mailto:giangnguyen221295@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/nguyen-van-giang](https://www.linkedin.com/in/nguyen-van-giang/)
-
-## 🌟 Featured Projects
-
-### 🚀 [Mission Control Dashboard](https://github.com/yourusername/mission-control)
-A real-time dashboard for monitoring spacecraft telemetry, built with Angular and Node.js.
-
-### 🌠 [Stellar Portfolio](https://github.com/yourusername/stellar-portfolio)
-My personal portfolio website showcasing my projects and experience, crafted with Vue.js and TypeScript.
-
-### 🛰️ [Orbital Tracker](https://github.com/yourusername/orbital-tracker)
-A tool to track satellites in orbit, utilizing Python and various space APIs.
