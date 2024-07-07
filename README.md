@@ -1,6 +1,6 @@
 # 🌌 Welcome to My GitHub Universe! 🌌
 
-![Milky Way]([https://giphy.com/clips/storyful-arizona-milky-way-shooting-stars-ozNvZioZuhQZ9YmxvX])
+![Milky Way Galaxy](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 # 💫 About Me:
 👋 Hi, I'm Gary Nguyen <br>
