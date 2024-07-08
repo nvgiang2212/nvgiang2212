@@ -1,7 +1,9 @@
-# 🌌 Welcome to My GitHub Universe! 🌌
+<h2 align="center">
+🌌 Welcome to My GitHub Universe! 🌌
+</h2>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gart+Nguyen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gary+Nguyen!+😁" />
 </h1>
 
 <h3 align="center">A passionate software developer from Vietnam</h3>
@@ -16,7 +18,7 @@
 
 💬 Ask me about **Javascript, React, Angular... or anything**
 
-⚡ Fun fact **The famous moving staircases at Hogwarts were inspired by the Wadham College at the University of Oxford**
+⚡ Fun fact **Dumbledore's full name is Albus Percival Wulfric Brian Dumbledore**
 
  </div>
  
